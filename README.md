@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 -  Pronouns: AC/DC
 - ⚡ Fun fact: I'm a musician, writer, and illustrator, but only as a hobby (for now).
 -->
+Perfil destinado aos projetos realizados em sala de aula!
+</div>
