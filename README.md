@@ -3,6 +3,13 @@
 <!--
 **julioferreira22-blip/julioferreira22-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div align= "center">
+  
+
+###Linguagens:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
+  ![Node.js](https://img.shields.io/badge/-Node.js-336633?style=for-the-badge&logo=node.js&logoColor=white)
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on store
