@@ -4,7 +4,7 @@
 **julioferreira22-blip/julioferreira22-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div align= "center">
-  
+-->  
 
 ###Linguagens:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
