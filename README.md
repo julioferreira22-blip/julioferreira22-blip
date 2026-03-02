@@ -6,9 +6,8 @@
 <div align= "center">
 -->  
 
-###Linguagens:
+Linguagens:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
-  ![Node.js](https://img.shields.io/badge/-Node.js-336633?style=for-the-badge&logo=node.js&logoColor=white)
   
 Here are some ideas to get you started:
 
