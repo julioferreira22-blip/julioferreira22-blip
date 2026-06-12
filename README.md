@@ -1,5 +1,5 @@
 ## Hi there 👋dear friends!
-![Texto Alternativo](<img width="506" height="286" alt="_" src="https://github.com/user-attachments/assets/54b6abc8-9316-43ca-87e2-c5a78b42b070" />
+<img width="506" height="286" alt="_" src="https://github.com/user-attachments/assets/54b6abc8-9316-43ca-87e2-c5a78b42b070" />
 
 <!--
 **julioferreira22-blip/julioferreira22-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
