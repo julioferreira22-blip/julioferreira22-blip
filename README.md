@@ -1,5 +1,5 @@
 ## Hi there 👋dear friends!
-
+![Texto Alternativo](https://pin.it/1PWhqf8P)
 <!--
 **julioferreira22-blip/julioferreira22-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
